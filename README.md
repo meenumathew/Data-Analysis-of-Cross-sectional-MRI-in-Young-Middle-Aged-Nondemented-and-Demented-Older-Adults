@@ -40,17 +40,24 @@ Then I thought if does gender has any effect on nWBV. Here both data are quantit
 <em><b>Fig.3 Density Plot of  nWBV </b></em>
 </p>
 Next, I start to analyse nWBV against the social economy status and nWBV v/s years of Education. But sadly, I couldn't understand much from these plots to certainly say that both SES and EDEC has an influence on nWBV scores. But years of education between 12 and 18 has slightly greater nWBV.
-
+<p align="center">
+<img align="center" alt="Fig.4 Social Economy Status v/s nWBV" src="images/img4_Economy_nWBV.jpg"><br/>
+<em><b>Fig.4 Social Economy Status v/s nWBV </b></em>
+</p>
+<p align="center">
+<img align="center" alt="Fig.5 Education Status v/s nWBV" src="images/img5_Education_nWBV.jpg"><br/>
+<em><b>Fig.5 Education Status v/s nWBV</b></em>
+</p>
 # III. Conclusion 
 
 In conclusion, the data gives some insights how dementia related with age, brain volume, gender, years of education and social economics status. Based on the available data we would say the dementia and the normalise Whole Brain Volume (nWBV) is negatively correlated as well as nWBV is also negatively correlated with age of patient. Interestingly, I found that females have better nWBV than males, thus the females are healthier than male according to this data. In addition to the above-mentioned factors, I could not find any significant relationship between years of study v/s nWBV and social economy status v/s nWBV. I think size of the data and updated data will gives strong evidence for the above my conclusion. 
 # References
-- 1.	https://knightadrc.wustl.edu/cdr/cdr.htm
-- 2.	https://datavizcatalogue.com/methods/density_plot.html#:~:text=The%20peaks%20of%20a%20Density,used%20in%20a%20typical%20histogram
-- 3.	https://seaborn.pydata.org/index.html
-- 4.	https://www.kaggle.com/jboysen/mri-and-alzheimers?select=oasis_longitudinal.csv  
-- 5.	Video: https://drive.google.com/drive/u/0/folders/15r3UGXjf8wkQp01rCuNfng9Vr2pgj7Cu
-- 6.	Notebook: https://colab.research.google.com/drive/1cH5gHy-K7rvnEs9GncUe5lfCxFP0yLJB#scrollTo=OO6HfcevmD5e
+- [1].	https://knightadrc.wustl.edu/cdr/cdr.htm
+- [2].	https://datavizcatalogue.com/methods/density_plot.html#:~:text=The%20peaks%20of%20a%20Density,used%20in%20a%20typical%20histogram
+- [3].	https://seaborn.pydata.org/index.html
+- [4].	https://www.kaggle.com/jboysen/mri-and-alzheimers?select=oasis_longitudinal.csv  
+- [5].	Video: https://drive.google.com/drive/u/0/folders/15r3UGXjf8wkQp01rCuNfng9Vr2pgj7Cu
+- [6].	Notebook: https://colab.research.google.com/drive/1cH5gHy-K7rvnEs9GncUe5lfCxFP0yLJB#scrollTo=OO6HfcevmD5e
 
 
 
