@@ -5,7 +5,7 @@ Alzheimer’s Disease (AD) is the most common form of dementia affecting million
 
 I have downloaded csv file ‘MRI and Alzheimer’s  from ( https://www.kaggle.com/jboysen/mri-and-alzheimers?select=oasis_longitudinal.csv  ).The dataset consists of a longitudinal MRI data of 150 subjects aged 60 to 96 and everyone is right-handed.( This data set includes 373 records and 15 attributes (5 float ,5 integer values, and 5 string values)). Each subject was scanned at least once.72 of the subjects were grouped as 'Nondemented' throughout the study.64 of the subjects were grouped as 'Demented' at the time of their initial visits and remained so throughout the study.14 subjects were grouped as 'Nondemented' at the time of their initial visit and were subsequently characterized as 'Demented' at a later visit. These fall under the 'Converted' category.
 
-# Column Descriptors
+The Table.1 shows the column decription of data set used for data analysis.
 <img align="center" alt="Table.1 Column Descriptors" src="images/table1_ColumnDescriptors.JPG">
 <em><b>Table.1 Column Descriptors</b></em>
 
@@ -14,15 +14,13 @@ Among the 3 aspects of big data such as volume, velocity and variety, I tried tw
 
 # II.	Data Exploration, Processing, Cleaning and/or Integration 
 
-After collecting the data, I did some more filtering to get only the interested data (drop irrelevant data) and also deleted duplicated entries. Here I considered the most important parameter Clinical Dementia Rate (CDR) against normal Whole Brain Volume (nWBV). The CDR Dementia Staging Instrument in one aspect is a 5-point scale used to characterize six domains of cognitive and functional performance applicable to Alzheimer disease and related dementias: Memory, Orientation, Judgment & Problem Solving, Community Affairs, Home & Hobbies, and Personal Care. This score is useful for characterizing and tracking a patient's level of impairment/dementia:
+After collecting the data, I did some more filtering to get only the interested data (drop irrelevant data) and also deleted duplicated entries. Here I considered the most important parameter Clinical Dementia Rate (CDR) against normal Whole Brain Volume (nWBV). The CDR Dementia Staging Instrument in one aspect is a 5-point scale used to characterize six domains of cognitive and functional performance applicable to Alzheimer disease and related dementias: Memory, Orientation, Judgment & Problem Solving, Community Affairs, Home & Hobbies, and Personal Care. This score is useful for characterizing and tracking a patient's level of impairment/dementia[1] :
 
-0 = Normal
-0.5 = Very Mild Dementia
-1 = Mild Dementia
-2 = Moderate Dementia
-3 = Severe Dementia                
-
-[1] 
+- 0 = Normal
+- 0.5 = Very Mild Dementia
+- 1 = Mild Dementia
+- 2 = Moderate Dementia
+- 3 = Severe Dementia                
 
 Before starting to visualize the data, I classified the data in accordance with NOIR. Here both CDR and nWBV are ratio, also CDR has ordinal data. Because a density plot visualises the distribution of data over a continuous interval or time period.[2], I opted this one for visualising the different orders of CDR v/s nWBV. By analysing the data of CDR vs nWBV, I could find that nWBW decreases as CDR level increases. Then my curiosity tends me to check if any correlation exists between NWBV with years of education, social economy status, gender and age. And so, I start to plot the graph of them.
 <p align="center">
