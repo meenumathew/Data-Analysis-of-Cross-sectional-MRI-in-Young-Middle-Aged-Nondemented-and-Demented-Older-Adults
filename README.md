@@ -25,14 +25,15 @@ After collecting the data, I did some more filtering to get only the interested 
 Reference [1] 
 
 Before starting to visualize the data, I classified the data in accordance with NOIR. Here both CDR and nWBV are ratio, also CDR has ordinal data. Because a density plot visualises the distribution of data over a continuous interval or time period.[2], I opted this one for visualising the different orders of CDR v/s nWBV. By analysing the data of CDR vs nWBV, I could find that nWBW decreases as CDR level increases. Then my curiosity tends me to check if any correlation exists between NWBV with years of education, social economy status, gender and age. And so, I start to plot the graph of them.
+<p>
 <img align="centre" alt="Fig.1  CDR vs nWBV" src="images/img1_CDR_nWBV.jpg">
-<em><b>Fig.1  CDR vs nWBV </b></em>
-
+<em><b>Fig.1 CDR vs nWBV </b></em>
+</p>
 First, I plot the graph, that shows the relation between Age and nWBV, because both are ratios, I opted scattered plot graph and also added regression line to illustrates the negative corelation between Age and nWBV. Also, I opted red colour to highlight the regression line.
-
+<p>
 <img align="centre" alt="Fig.1  Age vs nWBV " src="images/img2_Age_nWBV.jpg">
-<em><b>Fig.1  Age vs nWBV </b></em>
-
+<em><b>Fig.2  Age vs nWBV </b></em>
+</p>
 Then I thought if does gender has any effect on nWBV. Here both data are quantitative and also, I need to see, how probability density of gender related to nWBV. So, I visualised the density plot of nWBV and reached the conclusion that females are healthier than male in given data set because females have higher nWBV values than males but we cannot give strong statement based on this small sample space.
 
 Next, I start to analyse nWBV against the social economy status and nWBV v/s years of Education. But sadly, I couldn't understand much from these plots to certainly say that both SES and EDEC has an influence on nWBV scores. But years of education between 12 and 18 has slightly greater nWBV.
