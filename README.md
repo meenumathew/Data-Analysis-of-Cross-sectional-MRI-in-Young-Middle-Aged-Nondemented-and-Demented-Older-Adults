@@ -31,7 +31,7 @@ Before starting to visualize the data, I classified the data in accordance with 
 </p>
 First, I plot the graph, that shows the relation between Age and nWBV, because both are ratios, I opted scattered plot graph and also added regression line to illustrates the negative corelation between Age and nWBV. Also, I opted red colour to highlight the regression line.
 <p align = "center">
-<img align="center" alt="Fig.1  Age vs nWBV " src="images/img2_Age_nWBV.jpg">
+<img align="center" alt="Fig.1  Age vs nWBV " src="images/img2_Age_nWBV.jpg"><br/>
 <em><b>Fig.2  Age vs nWBV </b></em>
 </p>
 Then I thought if does gender has any effect on nWBV. Here both data are quantitative and also, I need to see, how probability density of gender related to nWBV. So, I visualised the density plot of nWBV and reached the conclusion that females are healthier than male in given data set because females have higher nWBV values than males but we cannot give strong statement based on this small sample space.
