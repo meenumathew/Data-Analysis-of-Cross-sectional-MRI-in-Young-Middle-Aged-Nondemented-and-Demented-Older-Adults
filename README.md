@@ -9,6 +9,7 @@ I have downloaded csv file ‘MRI and Alzheimer’s  from ( https://www.kaggle.c
 <img align="centre" alt="Table.1 Column Descriptors" src="images/table1_ColumnDescriptors.JPG">
 <em><b>Table.1 Column Descriptors</b></em>
 
+
 Among the 3 aspects of big data such as volume, velocity and variety, I tried two consider two factors (volume and velocity) for choosing data set. The selected data set is real time data collected from Open Access Series of Imaging Studies (OASIS). 
 
 # II.	Data Exploration, Processing, Cleaning and/or Integration 
@@ -24,7 +25,8 @@ After collecting the data, I did some more filtering to get only the interested 
 Reference [1] 
 
 Before starting to visualize the data, I classified the data in accordance with NOIR. Here both CDR and nWBV are ratio, also CDR has ordinal data. Because a density plot visualises the distribution of data over a continuous interval or time period.[2], I opted this one for visualising the different orders of CDR v/s nWBV. By analysing the data of CDR vs nWBV, I could find that nWBW decreases as CDR level increases. Then my curiosity tends me to check if any correlation exists between NWBV with years of education, social economy status, gender and age. And so, I start to plot the graph of them.
-
+<img align="centre" alt="Fig.1  CDR vs nWBV" src="images/img1_CDR_nWBV.JPG">
+<em><b>Fig.1  CDR vs nWBV </b></em>
 
 First, I plot the graph, that shows the relation between Age and nWBV, because both are ratios, I opted scattered plot graph and also added regression line to illustrates the negative corelation between Age and nWBV. Also, I opted red colour to highlight the regression line.
 
