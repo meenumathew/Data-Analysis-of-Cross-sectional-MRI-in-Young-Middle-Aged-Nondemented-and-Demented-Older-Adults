@@ -48,6 +48,7 @@ Next, I start to analyse nWBV against the social economy status and nWBV v/s yea
 <img align="center" alt="Fig.5 Education Status v/s nWBV" src="images/img5_Education_nWBV.jpg"><br/>
 <em><b>Fig.5 Education Status v/s nWBV</b></em>
 </p>
+
 # III. Conclusion 
 
 In conclusion, the data gives some insights how dementia related with age, brain volume, gender, years of education and social economics status. Based on the available data we would say the dementia and the normalise Whole Brain Volume (nWBV) is negatively correlated as well as nWBV is also negatively correlated with age of patient. Interestingly, I found that females have better nWBV than males, thus the females are healthier than male according to this data. In addition to the above-mentioned factors, I could not find any significant relationship between years of study v/s nWBV and social economy status v/s nWBV. I think size of the data and updated data will gives strong evidence for the above my conclusion. 
