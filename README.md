@@ -1,4 +1,4 @@
-# Cross-sectional MRI Data in Young Middle Aged Nondemented and Demented Older Adults
+# Data Analysis of Cross-sectional MRI Data in Young Middle Aged Nondemented and Demented Older Adults
 Alzheimer’s Disease (AD) is the most common form of dementia affecting millions of people worldwide. "We have known for a long time that the brain shrinks in Alzheimer's disease and you can detect this on MRI," says researcher Linda K. McEvoy, PhD, assistant professor of radiology at the University of California, San Diego School of Medicine. In this paper, I am planning to collect data about cross-sectional MRI data among people under different age and visualise it effective manner in order to reveal better clarification bout Alzheimer’s disease.
 
 # I. Data Set
