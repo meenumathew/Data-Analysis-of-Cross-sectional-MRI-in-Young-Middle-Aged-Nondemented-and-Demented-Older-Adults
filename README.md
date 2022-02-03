@@ -31,3 +31,7 @@ Then I thought if does gender has any effect on nWBV. Here both data are quantit
 
 Next, I start to analyse nWBV against the social economy status and nWBV v/s years of Education. But sadly, I couldn't understand much from these plots to certainly say that both SES and EDEC has an influence on nWBV scores. But years of education between 12 and 18 has slightly greater nWBV.
 
+# III. Conclusion 
+
+In conclusion, the data gives some insights how dementia related with age, brain volume, gender, years of education and social economics status. Based on the available data we would say the dementia and the normalise Whole Brain Volume (nWBV) is negatively correlated as well as nWBV is also negatively correlated with age of patient. Interestingly, I found that females have better nWBV than males, thus the females are healthier than male according to this data. In addition to the above-mentioned factors, I could not find any significant relationship between years of study v/s nWBV and social economy status v/s nWBV. I think size of the data and updated data will gives strong evidence for the above my conclusion. Eventhough, I failed to get an idea from SES v/s nWBV graph and EDEC v/s nWBV, this assignment helps me a lot to familiarise about what’s a data visualisation and management subject and I hope I could do better in future by working with more works.
+
