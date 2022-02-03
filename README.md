@@ -22,7 +22,7 @@ After collecting the data, I did some more filtering to get only the interested 
 2 = Moderate Dementia
 3 = Severe Dementia                
 
-Reference [1] 
+[1] 
 
 Before starting to visualize the data, I classified the data in accordance with NOIR. Here both CDR and nWBV are ratio, also CDR has ordinal data. Because a density plot visualises the distribution of data over a continuous interval or time period.[2], I opted this one for visualising the different orders of CDR v/s nWBV. By analysing the data of CDR vs nWBV, I could find that nWBW decreases as CDR level increases. Then my curiosity tends me to check if any correlation exists between NWBV with years of education, social economy status, gender and age. And so, I start to plot the graph of them.
 <p align="center">
@@ -43,5 +43,14 @@ Next, I start to analyse nWBV against the social economy status and nWBV v/s yea
 
 # III. Conclusion 
 
-In conclusion, the data gives some insights how dementia related with age, brain volume, gender, years of education and social economics status. Based on the available data we would say the dementia and the normalise Whole Brain Volume (nWBV) is negatively correlated as well as nWBV is also negatively correlated with age of patient. Interestingly, I found that females have better nWBV than males, thus the females are healthier than male according to this data. In addition to the above-mentioned factors, I could not find any significant relationship between years of study v/s nWBV and social economy status v/s nWBV. I think size of the data and updated data will gives strong evidence for the above my conclusion. Eventhough, I failed to get an idea from SES v/s nWBV graph and EDEC v/s nWBV, this assignment helps me a lot to familiarise about what’s a data visualisation and management subject and I hope I could do better in future by working with more works.
+In conclusion, the data gives some insights how dementia related with age, brain volume, gender, years of education and social economics status. Based on the available data we would say the dementia and the normalise Whole Brain Volume (nWBV) is negatively correlated as well as nWBV is also negatively correlated with age of patient. Interestingly, I found that females have better nWBV than males, thus the females are healthier than male according to this data. In addition to the above-mentioned factors, I could not find any significant relationship between years of study v/s nWBV and social economy status v/s nWBV. I think size of the data and updated data will gives strong evidence for the above my conclusion. 
+# References
+- 1.	https://knightadrc.wustl.edu/cdr/cdr.htm
+- 2.	https://datavizcatalogue.com/methods/density_plot.html#:~:text=The%20peaks%20of%20a%20Density,used%20in%20a%20typical%20histogram
+- 3.	https://seaborn.pydata.org/index.html
+- 4.	https://www.kaggle.com/jboysen/mri-and-alzheimers?select=oasis_longitudinal.csv  
+- 5.	Video: https://drive.google.com/drive/u/0/folders/15r3UGXjf8wkQp01rCuNfng9Vr2pgj7Cu
+- 6.	Notebook: https://colab.research.google.com/drive/1cH5gHy-K7rvnEs9GncUe5lfCxFP0yLJB#scrollTo=OO6HfcevmD5e
+
+
 
